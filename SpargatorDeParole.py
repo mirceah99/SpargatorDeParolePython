@@ -1,5 +1,5 @@
 #Spargatorul de parole 
-#Mirce pe YouTube
+#snapchat
 
 import time
 nrMindDeCaractere = 6
